@@ -1,2 +1,3 @@
 # hello-world
 My first repository (I'm new here).
+I am an aspiring developer. There is a lot to learn, it's a little overwhelming but I'm sure I'll get there eventually...
